@@ -16,6 +16,6 @@ jobs:
       with:
         ftp-server: 203.190.153.19
         ftp-username: user
-        ftp-password:
+        ftp-password: relaxadmin@123
         ftp-port: 22
-        ftp-path: 
+        ftp-path: /var/www/test
