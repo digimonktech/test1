@@ -11,6 +11,6 @@ jobs:
     - name: 📂 Sync files
       uses: SamKirkland/FTP-Deploy-Action@4.1.0
       with:
-        server: digimonktech.com
+        server: sftp://digimonktech.com
         username: user
         password: Err@r#19
