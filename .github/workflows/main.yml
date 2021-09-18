@@ -12,5 +12,5 @@ jobs:
       uses: SamKirkland/FTP-Deploy-Action@4.1.0
       with:
         server: digimonktech.com
-        username: user
+        username: root
         password: Err@r#19
