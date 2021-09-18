@@ -14,5 +14,3 @@ jobs:
         server: digimonktech.com
         username: user
         password: Err@r#19
-	      port: 22
-	      server-dir: /var/www/test
